@@ -1,0 +1,10 @@
+site_name: CheeseburgerIM - Docs
+site_url: https://docs.cheeseburgerim.space
+site_author: CheeseburgerIM - Tony Pan
+site_description: CheeseburgerIM - Docs
+
+theme: null
+
+nav:
+  - Home: index.md
+  - About: about.md
